@@ -1,0 +1,506 @@
+[
+    {
+        "SENADOR": "ABAD, MAXIMILIANO",
+        "BLOQUE": "Unión Cívica Radical",
+        "PROVINCIA": "BUENOS AIRES",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosSenadores/abad_maximiliano.gif"
+    },
+    {
+        "SENADOR": "ABDALA, BARTOLOMÉ ESTEBAN",
+        "BLOQUE": "La Libertad Avanza",
+        "PROVINCIA": "SAN LUIS",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosSenadores/abdala_bartolomé_esteban.gif"
+    },
+    {
+        "SENADOR": "ALVAREZ RIVERO, CARMEN",
+        "BLOQUE": "Frente Pro",
+        "PROVINCIA": "CÓRDOBA",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosSenadores/alvarez_rivero_carmen.gif"
+    },
+    {
+        "SENADOR": "ARRASCAETA, IVANNA MARCELA",
+        "BLOQUE": "La Libertad Avanza",
+        "PROVINCIA": "SAN LUIS",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosSenadores/arrascaeta_ivanna_marcela.gif"
+    },
+    {
+        "SENADOR": "ATAUCHE, EZEQUIEL",
+        "BLOQUE": "La Libertad Avanza",
+        "PROVINCIA": "JUJUY",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosSenadores/atauche_ezequiel.gif"
+    },
+    {
+        "SENADOR": "AVILA, BEATRIZ LUISA",
+        "BLOQUE": "Por La Justicia Social",
+        "PROVINCIA": "TUCUMÁN",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosSenadores/avila_beatriz_luisa.gif"
+    },
+    {
+        "SENADOR": "BEDIA, VILMA FACUNDA",
+        "BLOQUE": "La Libertad Avanza",
+        "PROVINCIA": "JUJUY",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosSenadores/bedia_vilma_facunda.gif"
+    },
+    {
+        "SENADOR": "BLANCO, PABLO DANIEL",
+        "BLOQUE": "Unión Cívica Radical",
+        "PROVINCIA": "TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosSenadores/blanco_pablo_daniel.gif"
+    },
+    {
+        "SENADOR": "CARAMBIA, JOSÉ MARÍA",
+        "BLOQUE": "Por Santa Cruz",
+        "PROVINCIA": "SANTA CRUZ",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosSenadores/carambia_josé_maría.gif"
+    },
+    {
+        "SENADOR": "CREXELL, CARMEN LUCILA",
+        "BLOQUE": "Movimiento Neuquino",
+        "PROVINCIA": "NEUQUÉN",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosSenadores/crexell_carmen_lucila.gif"
+    },
+    {
+        "SENADOR": "CRISTINA, ANDREA MARCELA",
+        "BLOQUE": "Frente Pro",
+        "PROVINCIA": "CHUBUT",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosSenadores/cristina_andrea_marcela.gif"
+    },
+    {
+        "SENADOR": "DE ANGELI, ALFREDO LUIS",
+        "BLOQUE": "Frente Pro",
+        "PROVINCIA": "ENTRE RÍOS",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosSenadores/de_angeli_alfredo_luis.gif"
+    },
+    {
+        "SENADOR": "ESPÍNOLA, CARLOS MAURICIO",
+        "BLOQUE": "Unidad Federal",
+        "PROVINCIA": "CORRIENTES",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosSenadores/espínola_carlos_mauricio.gif"
+    },
+    {
+        "SENADOR": "FAMA, FLAVIO SERGIO",
+        "BLOQUE": "Unión Cívica Radical",
+        "PROVINCIA": "CATAMARCA",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosSenadores/fama_flavio_sergio.gif"
+    },
+    {
+        "SENADOR": "GADANO, NATALIA ELENA",
+        "BLOQUE": "Por Santa Cruz",
+        "PROVINCIA": "SANTA CRUZ",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosSenadores/gadano_natalia_elena.gif"
+    },
+    {
+        "SENADOR": "GALARETTO, EDUARDO HORACIO",
+        "BLOQUE": "Unión Cívica Radical",
+        "PROVINCIA": "SANTA FE",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosSenadores/galaretto_eduardo_horacio.gif"
+    },
+    {
+        "SENADOR": "GOERLING LARA, ENRIQUE MARTIN",
+        "BLOQUE": "Frente Pro",
+        "PROVINCIA": "MISIONES",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosSenadores/goerling_lara_enrique_martin.gif"
+    },
+    {
+        "SENADOR": "HUALA, MARÍA VICTORIA",
+        "BLOQUE": "Frente Pro",
+        "PROVINCIA": "LA PAMPA",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosSenadores/huala_maría_victoria.gif"
+    },
+    {
+        "SENADOR": "JUEZ, LUIS ALFREDO",
+        "BLOQUE": "Frente Pro",
+        "PROVINCIA": "CÓRDOBA",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosSenadores/juez_luis_alfredo.gif"
+    },
+    {
+        "SENADOR": "JURI, MARIANA",
+        "BLOQUE": "Unión Cívica Radical",
+        "PROVINCIA": "MENDOZA",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosSenadores/juri_mariana.gif"
+    },
+    {
+        "SENADOR": "KRONEBERGER, DANIEL RICARDO",
+        "BLOQUE": "Unión Cívica Radical",
+        "PROVINCIA": "LA PAMPA",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosSenadores/kroneberger_daniel_ricardo.gif"
+    },
+    {
+        "SENADOR": "LOSADA, CAROLINA",
+        "BLOQUE": "Unión Cívica Radical",
+        "PROVINCIA": "SANTA FE",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosSenadores/losada_carolina.gif"
+    },
+    {
+        "SENADOR": "LOUSTEAU, MARTÍN",
+        "BLOQUE": "Unión Cívica Radical",
+        "PROVINCIA": "CIUDAD AUTÓNOMA DE BUENOS AIRES",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosSenadores/lousteau_martín.gif"
+    },
+    {
+        "SENADOR": "OLALLA, STELLA MARIS",
+        "BLOQUE": "Unión Cívica Radical",
+        "PROVINCIA": "ENTRE RÍOS",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosSenadores/olalla_stella_maris.gif"
+    },
+    {
+        "SENADOR": "OLIVERA LUCERO, BRUNO ANTONIO",
+        "BLOQUE": "La Libertad Avanza",
+        "PROVINCIA": "SAN JUAN",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosSenadores/olivera_lucero_bruno_antonio.gif"
+    },
+    {
+        "SENADOR": "PAGOTTO, JUAN CARLOS",
+        "BLOQUE": "La Libertad Avanza",
+        "PROVINCIA": "LA RIOJA",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosSenadores/pagotto_juan_carlos.gif"
+    },
+    {
+        "SENADOR": "PAOLTRONI, FRANCISCO MANUEL",
+        "BLOQUE": "Libertad, Trabajo Y Progreso",
+        "PROVINCIA": "FORMOSA",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosSenadores/paoltroni_francisco_manuel.gif"
+    },
+    {
+        "SENADOR": "ROMERO, JUAN CARLOS",
+        "BLOQUE": "Cambio Federal",
+        "PROVINCIA": "SALTA",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosSenadores/romero_juan_carlos.gif"
+    },
+    {
+        "SENADOR": "SILVA, MÓNICA ESTHER",
+        "BLOQUE": "Juntos Somos Río Negro",
+        "PROVINCIA": "RÍO NEGRO",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosSenadores/silva_mónica_esther.gif"
+    },
+    {
+        "SENADOR": "SUÁREZ, RODOLFO ALEJANDRO",
+        "BLOQUE": "Unión Cívica Radical",
+        "PROVINCIA": "MENDOZA",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosSenadores/suárez_rodolfo_alejandro.gif"
+    },
+    {
+        "SENADOR": "TAGLIAFERRI, GUADALUPE",
+        "BLOQUE": "Frente Pro",
+        "PROVINCIA": "CIUDAD AUTÓNOMA DE BUENOS AIRES",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosSenadores/tagliaferri_guadalupe.gif"
+    },
+    {
+        "SENADOR": "TERENZI, EDITH ELIZABETH",
+        "BLOQUE": "Despierta Chubut",
+        "PROVINCIA": "CHUBUT",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosSenadores/terenzi_edith_elizabeth.gif"
+    },
+    {
+        "SENADOR": "VALENZUELA, MERCEDES GABRIELA",
+        "BLOQUE": "Unión Cívica Radical",
+        "PROVINCIA": "CORRIENTES",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosSenadores/valenzuela_mercedes_gabriela.gif"
+    },
+    {
+        "SENADOR": "VIGO, ALEJANDRA MARÍA",
+        "BLOQUE": "Unidad Federal",
+        "PROVINCIA": "CÓRDOBA",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosSenadores/vigo_alejandra_maría.gif"
+    },
+    {
+        "SENADOR": "VISCHI, EDUARDO ALEJANDRO",
+        "BLOQUE": "Unión Cívica Radical",
+        "PROVINCIA": "CORRIENTES",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosSenadores/vischi_eduardo_alejandro.gif"
+    },
+    {
+        "SENADOR": "ZIMMERMANN, VICTOR",
+        "BLOQUE": "Unión Cívica Radical",
+        "PROVINCIA": "CHACO",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosSenadores/zimmermann_victor.gif"
+    },
+    {
+        "SENADOR": "BENSUSÁN, DANIEL PABLO",
+        "BLOQUE": "Frente Nacional Y Popular",
+        "PROVINCIA": "LA PAMPA",
+        "VOTO": "AUSENTE",
+        "FOTO": "/fotosSenadores/bensusán_daniel_pablo.gif"
+    },
+    {
+        "SENADOR": "ANDRADA, GUILLERMO EDUARDO",
+        "BLOQUE": "Convicción Federal",
+        "PROVINCIA": "CATAMARCA",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosSenadores/andrada_guillermo_eduardo.gif"
+    },
+    {
+        "SENADOR": "ARCE, CARLOS OMAR",
+        "BLOQUE": "Frente Renovador De La Concordia Social",
+        "PROVINCIA": "MISIONES",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosSenadores/arce_carlos_omar.gif"
+    },
+    {
+        "SENADOR": "CORA, STEFANIA",
+        "BLOQUE": "Unidad Ciudadana",
+        "PROVINCIA": "ENTRE RÍOS",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosSenadores/cora_stefania.gif"
+    },
+    {
+        "SENADOR": "CORPACCI, LUCIA BENIGNA",
+        "BLOQUE": "Frente Nacional Y Popular",
+        "PROVINCIA": "CATAMARCA",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosSenadores/corpacci_lucia_benigna.gif"
+    },
+    {
+        "SENADOR": "DE PEDRO, EDUARDO ENRIQUE",
+        "BLOQUE": "Unidad Ciudadana",
+        "PROVINCIA": "BUENOS AIRES",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosSenadores/de_pedro_eduardo_enrique.gif"
+    },
+    {
+        "SENADOR": "DI TULLIO, JULIANA",
+        "BLOQUE": "Unidad Ciudadana",
+        "PROVINCIA": "BUENOS AIRES",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosSenadores/di_tullio_juliana.gif"
+    },
+    {
+        "SENADOR": "DOÑATE, CLAUDIO MARTÍN",
+        "BLOQUE": "Unidad Ciudadana",
+        "PROVINCIA": "RÍO NEGRO",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosSenadores/doñate_claudio_martín.gif"
+    },
+    {
+        "SENADOR": "DURÉ, MARÍA EUGENIA",
+        "BLOQUE": "Unidad Ciudadana",
+        "PROVINCIA": "TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosSenadores/duré_maría_eugenia.gif"
+    },
+    {
+        "SENADOR": "FERNÁNDEZ SAGASTI, ANABEL",
+        "BLOQUE": "Unidad Ciudadana",
+        "PROVINCIA": "MENDOZA",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosSenadores/fernández_sagasti_anabel.gif"
+    },
+    {
+        "SENADOR": "GARCÍA LARRABURU, SILVINA MARCELA",
+        "BLOQUE": "Unidad Ciudadana",
+        "PROVINCIA": "RÍO NEGRO",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosSenadores/garcía_larraburu_silvina_marcela.gif"
+    },
+    {
+        "SENADOR": "GIMÉNEZ NAVARRO, MARÍA CELESTE",
+        "BLOQUE": "Unidad Ciudadana",
+        "PROVINCIA": "SAN JUAN",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosSenadores/giménez_navarro_maría_celeste.gif"
+    },
+    {
+        "SENADOR": "GIMÉNEZ, NORA DEL VALLE",
+        "BLOQUE": "Unidad Ciudadana",
+        "PROVINCIA": "SALTA",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosSenadores/giménez_nora_del_valle.gif"
+    },
+    {
+        "SENADOR": "GONZÁLEZ, MARÍA TERESA MARGARITA",
+        "BLOQUE": "Frente Nacional Y Popular",
+        "PROVINCIA": "FORMOSA",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosSenadores/gonzález_maría_teresa_margarita.gif"
+    },
+    {
+        "SENADOR": "KIRCHNER, ALICIA MARGARITA ANTONIA",
+        "BLOQUE": "Unidad Ciudadana",
+        "PROVINCIA": "SANTA CRUZ",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosSenadores/kirchner_alicia_margarita_antonia.gif"
+    },
+    {
+        "SENADOR": "LEAVY, SERGIO NAPOLEÓN",
+        "BLOQUE": "Unidad Ciudadana",
+        "PROVINCIA": "SALTA",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosSenadores/leavy_sergio_napoleón.gif"
+    },
+    {
+        "SENADOR": "LEDESMA ABDALA DE ZAMORA, CLAUDIA",
+        "BLOQUE": "Frente Nacional Y Popular",
+        "PROVINCIA": "SANTIAGO DEL ESTERO",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosSenadores/ledesma_abdala_de_zamora_claudia.gif"
+    },
+    {
+        "SENADOR": "LEWANDOWSKI, MARCELO NESTOR",
+        "BLOQUE": "Frente Nacional Y Popular",
+        "PROVINCIA": "SANTA FE",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosSenadores/lewandowski_marcelo_nestor.gif"
+    },
+    {
+        "SENADOR": "LINARES, CARLOS ALBERTO",
+        "BLOQUE": "Unidad Ciudadana",
+        "PROVINCIA": "CHUBUT",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosSenadores/linares_carlos_alberto.gif"
+    },
+    {
+        "SENADOR": "LÓPEZ, CÁNDIDA CRISTINA",
+        "BLOQUE": "Unidad Ciudadana",
+        "PROVINCIA": "TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosSenadores/lópez_cándida_cristina.gif"
+    },
+    {
+        "SENADOR": "LÓPEZ, MARÍA FLORENCIA",
+        "BLOQUE": "Frente Nacional Y Popular",
+        "PROVINCIA": "LA RIOJA",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosSenadores/lópez_maría_florencia.gif"
+    },
+    {
+        "SENADOR": "MANZUR, JUAN LUIS",
+        "BLOQUE": "Frente Nacional Y Popular",
+        "PROVINCIA": "TUCUMÁN",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosSenadores/manzur_juan_luis.gif"
+    },
+    {
+        "SENADOR": "MAYANS, JOSÉ MIGUEL ÁNGEL",
+        "BLOQUE": "Frente Nacional Y Popular",
+        "PROVINCIA": "FORMOSA",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosSenadores/mayans_josé_miguel_ángel.gif"
+    },
+    {
+        "SENADOR": "MENDOZA, SANDRA MARIELA",
+        "BLOQUE": "Frente Nacional Y Popular",
+        "PROVINCIA": "TUCUMÁN",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosSenadores/mendoza_sandra_mariela.gif"
+    },
+    {
+        "SENADOR": "MOISES, MARÍA CAROLINA",
+        "BLOQUE": "Convicción Federal",
+        "PROVINCIA": "JUJUY",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosSenadores/moises_maría_carolina.gif"
+    },
+    {
+        "SENADOR": "MONTENEGRO, GERARDO ANTENOR",
+        "BLOQUE": "Frente Nacional Y Popular",
+        "PROVINCIA": "SANTIAGO DEL ESTERO",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosSenadores/montenegro_gerardo_antenor.gif"
+    },
+    {
+        "SENADOR": "NEDER, JOSÉ EMILIO",
+        "BLOQUE": "Frente Nacional Y Popular",
+        "PROVINCIA": "SANTIAGO DEL ESTERO",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosSenadores/neder_josé_emilio.gif"
+    },
+    {
+        "SENADOR": "PARRILLI, OSCAR ISIDRO",
+        "BLOQUE": "Unidad Ciudadana",
+        "PROVINCIA": "NEUQUÉN",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosSenadores/parrilli_oscar_isidro.gif"
+    },
+    {
+        "SENADOR": "PILATTI VERGARA, MARÍA INÉS",
+        "BLOQUE": "Frente Nacional Y Popular",
+        "PROVINCIA": "CHACO",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosSenadores/pilatti_vergara_maría_inés.gif"
+    },
+    {
+        "SENADOR": "RECALDE, MARIANO",
+        "BLOQUE": "Frente Nacional Y Popular",
+        "PROVINCIA": "CIUDAD AUTÓNOMA DE BUENOS AIRES",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosSenadores/recalde_mariano.gif"
+    },
+    {
+        "SENADOR": "REJAL, JESÚS FERNANDO",
+        "BLOQUE": "Convicción Federal",
+        "PROVINCIA": "LA RIOJA",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosSenadores/rejal_jesús_fernando.gif"
+    },
+    {
+        "SENADOR": "RODAS, ANTONIO JOSÉ",
+        "BLOQUE": "Frente Nacional Y Popular",
+        "PROVINCIA": "CHACO",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosSenadores/rodas_antonio_josé.gif"
+    },
+    {
+        "SENADOR": "ROJAS DECUT, SONIA ELIZABETH",
+        "BLOQUE": "Frente Renovador De La Concordia Social",
+        "PROVINCIA": "MISIONES",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosSenadores/rojas_decut_sonia_elizabeth.gif"
+    },
+    {
+        "SENADOR": "SALINO, FERNANDO ALDO",
+        "BLOQUE": "Convicción Federal",
+        "PROVINCIA": "SAN LUIS",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosSenadores/salino_fernando_aldo.gif"
+    },
+    {
+        "SENADOR": "SAPAG, SILVIA ESTELA",
+        "BLOQUE": "Unidad Ciudadana",
+        "PROVINCIA": "NEUQUÉN",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosSenadores/sapag_silvia_estela.gif"
+    },
+    {
+        "SENADOR": "UÑAC, SERGIO MAURICIO",
+        "BLOQUE": "Frente Nacional Y Popular",
+        "PROVINCIA": "SAN JUAN",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosSenadores/uñac_sergio_mauricio.gif"
+    }
+]

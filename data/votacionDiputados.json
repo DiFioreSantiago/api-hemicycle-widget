@@ -1,0 +1,1801 @@
+[
+    {
+        "DIPUTADO": "ACEVEDO, SERGIO EDGARDO",
+        "BLOQUE": "Por Santa Cruz",
+        "PROVINCIA": "Santa Cruz",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/acevedo_sergio_edgardo.jpg"
+    },
+    {
+        "DIPUTADO": "AGOST CARREÑO, OSCAR",
+        "BLOQUE": "Encuentro Federal",
+        "PROVINCIA": "Córdoba",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/agost_carreño_oscar.jpg"
+    },
+    {
+        "DIPUTADO": "AGUIRRE, HILDA",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "La Rioja",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/aguirre_hilda.jpg"
+    },
+    {
+        "DIPUTADO": "AGUIRRE, MANUEL IGNACIO",
+        "BLOQUE": "Democracia Para Siempre",
+        "PROVINCIA": "Corrientes",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/aguirre_manuel_ignacio.jpg"
+    },
+    {
+        "DIPUTADO": "AJMECHET, SABRINA",
+        "BLOQUE": "Pro",
+        "PROVINCIA": "C.A.B.A.",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/ajmechet_sabrina.jpg"
+    },
+    {
+        "DIPUTADO": "ALI, ERNESTO \"PIPI\"",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "San Luis",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/ali_ernesto_pipi.jpg"
+    },
+    {
+        "DIPUTADO": "ALIANIELLO, EUGENIA",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Chubut",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/alianiello_eugenia.jpg"
+    },
+    {
+        "DIPUTADO": "ALLENDE, WALBERTO",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "San Juan",
+        "VOTO": "AUSENTE",
+        "FOTO": "/fotosDiputados/allende_walberto.jpg"
+    },
+    {
+        "DIPUTADO": "ALMIRON, LISANDRO",
+        "BLOQUE": "La Libertad Avanza",
+        "PROVINCIA": "Corrientes",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/almiron_lisandro.jpg"
+    },
+    {
+        "DIPUTADO": "ALONSO, CONSTANZA MARIA",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/alonso_constanza_maria.jpg"
+    },
+    {
+        "DIPUTADO": "ANSALONI, PABLO",
+        "BLOQUE": "La Libertad Avanza",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/ansaloni_pablo.jpg"
+    },
+    {
+        "DIPUTADO": "ANTOLA, MARCELA",
+        "BLOQUE": "Democracia Para Siempre",
+        "PROVINCIA": "Entre Ríos",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/antola_marcela.jpg"
+    },
+    {
+        "DIPUTADO": "ARABIA, DAMIAN",
+        "BLOQUE": "Pro",
+        "PROVINCIA": "C.A.B.A.",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/arabia_damian.jpg"
+    },
+    {
+        "DIPUTADO": "ARANCIBIA RODRIGUEZ, ALBERTO GUSTAVO",
+        "BLOQUE": "La Libertad Avanza",
+        "PROVINCIA": "San Luis",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/arancibia_rodriguez_alberto_gustavo.jpg"
+    },
+    {
+        "DIPUTADO": "ARAUJO HERNANDEZ, JORGE NERI",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Tierra del Fuego",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/araujo_hernandez_jorge_neri.jpg"
+    },
+    {
+        "DIPUTADO": "ARAUJO, MARIA FERNANDA",
+        "BLOQUE": "La Libertad Avanza",
+        "PROVINCIA": "C.A.B.A.",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/araujo_maria_fernanda.jpg"
+    },
+    {
+        "DIPUTADO": "ARDOHAIN, MARTIN",
+        "BLOQUE": "Pro",
+        "PROVINCIA": "La Pampa",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/ardohain_martin.jpg"
+    },
+    {
+        "DIPUTADO": "ARJOL, MARTIN",
+        "BLOQUE": "Ucr - Union Civica Radical",
+        "PROVINCIA": "Misiones",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/arjol_martin.jpg"
+    },
+    {
+        "DIPUTADO": "ARRIETA, LOURDES MICAELA",
+        "BLOQUE": "Fuerzas Del Cielo - Espacio Liberal F.c.e",
+        "PROVINCIA": "Mendoza",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/arrieta_lourdes_micaela.jpg"
+    },
+    {
+        "DIPUTADO": "ARROYO, DANIEL",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/arroyo_daniel.jpg"
+    },
+    {
+        "DIPUTADO": "ARRUA, ALBERTO",
+        "BLOQUE": "Innovacion Federal",
+        "PROVINCIA": "Misiones",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/arrua_alberto.jpg"
+    },
+    {
+        "DIPUTADO": "AUBONE, ANA FABIOLA",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "San Juan",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/aubone_ana_fabiola.jpg"
+    },
+    {
+        "DIPUTADO": "AVEIRO, MARTIN",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Mendoza",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/aveiro_martin.jpg"
+    },
+    {
+        "DIPUTADO": "AVICO, BELEN",
+        "BLOQUE": "Pro",
+        "PROVINCIA": "Córdoba",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/avico_belen.jpg"
+    },
+    {
+        "DIPUTADO": "AVILA, FERNANDA",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Catamarca",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/avila_fernanda.jpg"
+    },
+    {
+        "DIPUTADO": "AVILA, JORGE ANTONIO",
+        "BLOQUE": "Encuentro Federal",
+        "PROVINCIA": "Chubut",
+        "VOTO": "AUSENTE",
+        "FOTO": "/fotosDiputados/avila_jorge_antonio.jpg"
+    },
+    {
+        "DIPUTADO": "BACHEY, KARINA ETHEL",
+        "BLOQUE": "Pro",
+        "PROVINCIA": "San Luis",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/bachey_karina_ethel.jpg"
+    },
+    {
+        "DIPUTADO": "BALDASSI, HECTOR W.",
+        "BLOQUE": "Pro",
+        "PROVINCIA": "Córdoba",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/baldassi_hector_w.jpg"
+    },
+    {
+        "DIPUTADO": "BALLEJOS, NANCY",
+        "BLOQUE": "Pro",
+        "PROVINCIA": "Entre Ríos",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/ballejos_nancy.jpg"
+    },
+    {
+        "DIPUTADO": "BANFI, KARINA",
+        "BLOQUE": "Ucr - Union Civica Radical",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/banfi_karina.jpg"
+    },
+    {
+        "DIPUTADO": "BARLETTA, MARIO",
+        "BLOQUE": "Unidos",
+        "PROVINCIA": "Santa Fe",
+        "VOTO": "AUSENTE",
+        "FOTO": "/fotosDiputados/barletta_mario.jpg"
+    },
+    {
+        "DIPUTADO": "BASTERRA, LUIS EUGENIO",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Formosa",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/basterra_luis_eugenio.jpg"
+    },
+    {
+        "DIPUTADO": "BENEDETTI, ATILIO",
+        "BLOQUE": "Ucr - Union Civica Radical",
+        "PROVINCIA": "Entre Ríos",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/benedetti_atilio.jpg"
+    },
+    {
+        "DIPUTADO": "BENEDIT, BELTRAN",
+        "BLOQUE": "La Libertad Avanza",
+        "PROVINCIA": "Entre Ríos",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/benedit_beltran.jpg"
+    },
+    {
+        "DIPUTADO": "BENEGAS LYNCH, BERTIE",
+        "BLOQUE": "La Libertad Avanza",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/benegas_lynch_bertie.jpg"
+    },
+    {
+        "DIPUTADO": "BERMEJO, ADOLFO",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Mendoza",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/bermejo_adolfo.jpg"
+    },
+    {
+        "DIPUTADO": "BERTOLDI, TANYA",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Neuquén",
+        "VOTO": "AUSENTE",
+        "FOTO": "/fotosDiputados/bertoldi_tanya.jpg"
+    },
+    {
+        "DIPUTADO": "BESANA, GABRIELA",
+        "BLOQUE": "Pro",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/besana_gabriela.jpg"
+    },
+    {
+        "DIPUTADO": "BIANCHETTI, EMMANUEL",
+        "BLOQUE": "Pro",
+        "PROVINCIA": "Misiones",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/bianchetti_emmanuel.jpg"
+    },
+    {
+        "DIPUTADO": "BIASI, VANINA",
+        "BLOQUE": "Frente De Izquierda Unidad",
+        "PROVINCIA": "C.A.B.A.",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/biasi_vanina.jpg"
+    },
+    {
+        "DIPUTADO": "BONACCI, ROCIO",
+        "BLOQUE": "La Libertad Avanza",
+        "PROVINCIA": "Santa Fe",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/bonacci_rocio.jpg"
+    },
+    {
+        "DIPUTADO": "BONGIOVANNI, ALEJANDRO",
+        "BLOQUE": "Pro",
+        "PROVINCIA": "Santa Fe",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/bongiovanni_alejandro.jpg"
+    },
+    {
+        "DIPUTADO": "BORDET, GUSTAVO",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Entre Ríos",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/bordet_gustavo.jpg"
+    },
+    {
+        "DIPUTADO": "BORNORONI, GABRIEL",
+        "BLOQUE": "La Libertad Avanza",
+        "PROVINCIA": "Córdoba",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/bornoroni_gabriel.jpg"
+    },
+    {
+        "DIPUTADO": "BORREGO, VICTORIA",
+        "BLOQUE": "Coalicion Civica",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/borrego_victoria.jpg"
+    },
+    {
+        "DIPUTADO": "BRAMBILLA, SOFIA",
+        "BLOQUE": "Pro",
+        "PROVINCIA": "Corrientes",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/brambilla_sofia.jpg"
+    },
+    {
+        "DIPUTADO": "BROUWER DE KONING, GABRIELA",
+        "BLOQUE": "Ucr - Union Civica Radical",
+        "PROVINCIA": "Córdoba",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/brouwer_de_koning_gabriela.jpg"
+    },
+    {
+        "DIPUTADO": "BRUGGE, JUAN FERNANDO",
+        "BLOQUE": "Encuentro Federal",
+        "PROVINCIA": "Córdoba",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/brugge_juan_fernando.jpg"
+    },
+    {
+        "DIPUTADO": "CAFIERO, SANTIAGO",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/cafiero_santiago.jpg"
+    },
+    {
+        "DIPUTADO": "CALLETTI, PAMELA",
+        "BLOQUE": "Innovacion Federal",
+        "PROVINCIA": "Salta",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/calletti_pamela.jpg"
+    },
+    {
+        "DIPUTADO": "CAMPAGNOLI, MARCELA",
+        "BLOQUE": "Coalicion Civica",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/campagnoli_marcela.jpg"
+    },
+    {
+        "DIPUTADO": "CAMPERO, MARIANO",
+        "BLOQUE": "Ucr - Union Civica Radical",
+        "PROVINCIA": "Tucumán",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/campero_mariano.jpg"
+    },
+    {
+        "DIPUTADO": "CAMPITELLI, CELIA",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Santiago del Estero",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/campitelli_celia.jpg"
+    },
+    {
+        "DIPUTADO": "CAPOZZI, SERGIO EDUARDO",
+        "BLOQUE": "Pro",
+        "PROVINCIA": "Rio Negro",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/capozzi_sergio_eduardo.jpg"
+    },
+    {
+        "DIPUTADO": "CARBAJAL, FERNANDO",
+        "BLOQUE": "Democracia Para Siempre",
+        "PROVINCIA": "Formosa",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/carbajal_fernando.jpg"
+    },
+    {
+        "DIPUTADO": "CARIGNANO, FLORENCIA",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Santa Fe",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/carignano_florencia.jpg"
+    },
+    {
+        "DIPUTADO": "CARRIZO, ANA CARLA",
+        "BLOQUE": "Democracia Para Siempre",
+        "PROVINCIA": "C.A.B.A.",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/carrizo_ana_carla.jpg"
+    },
+    {
+        "DIPUTADO": "CARRIZO, SOLEDAD",
+        "BLOQUE": "Ucr - Union Civica Radical",
+        "PROVINCIA": "Córdoba",
+        "VOTO": "AUSENTE",
+        "FOTO": "/fotosDiputados/carrizo_soledad.jpg"
+    },
+    {
+        "DIPUTADO": "CARRO, PABLO",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Córdoba",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/carro_pablo.jpg"
+    },
+    {
+        "DIPUTADO": "CASAS, SERGIO GUILLERMO",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "La Rioja",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/casas_sergio_guillermo.jpg"
+    },
+    {
+        "DIPUTADO": "CASTAGNETO, CARLOS DANIEL",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/castagneto_carlos_daniel.jpg"
+    },
+    {
+        "DIPUTADO": "CASTILLO, CHRISTIAN",
+        "BLOQUE": "Frente De Izquierda Unidad",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/castillo_christian.jpg"
+    },
+    {
+        "DIPUTADO": "CERVI, PABLO",
+        "BLOQUE": "Ucr - Union Civica Radical",
+        "PROVINCIA": "Neuquén",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/cervi_pablo.jpg"
+    },
+    {
+        "DIPUTADO": "CHAHER, LEILA",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Jujuy",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/chaher_leila.jpg"
+    },
+    {
+        "DIPUTADO": "CHICA, JORGE",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "San Juan",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/chica_jorge.jpg"
+    },
+    {
+        "DIPUTADO": "CHOMIAK, MARIA LUISA",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Chaco",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/chomiak_maria_luisa.jpg"
+    },
+    {
+        "DIPUTADO": "CHUMPITAZ, GABRIEL FELIPE",
+        "BLOQUE": "Pro",
+        "PROVINCIA": "Santa Fe",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/chumpitaz_gabriel_felipe.jpg"
+    },
+    {
+        "DIPUTADO": "CIPOLINI, GERARDO",
+        "BLOQUE": "Ucr - Union Civica Radical",
+        "PROVINCIA": "Chaco",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/cipolini_gerardo.jpg"
+    },
+    {
+        "DIPUTADO": "CISNEROS, CARLOS",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Tucumán",
+        "VOTO": "AUSENTE",
+        "FOTO": "/fotosDiputados/cisneros_carlos.jpg"
+    },
+    {
+        "DIPUTADO": "COBOS, JULIO",
+        "BLOQUE": "Ucr - Union Civica Radical",
+        "PROVINCIA": "Mendoza",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/cobos_julio.jpg"
+    },
+    {
+        "DIPUTADO": "COLETTA, MARIELA",
+        "BLOQUE": "Democracia Para Siempre",
+        "PROVINCIA": "C.A.B.A.",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/coletta_mariela.jpg"
+    },
+    {
+        "DIPUTADO": "COLI, MARCELA",
+        "BLOQUE": "Democracia Para Siempre",
+        "PROVINCIA": "La Pampa",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/coli_marcela.jpg"
+    },
+    {
+        "DIPUTADO": "CORREA LLANO, FACUNDO",
+        "BLOQUE": "La Libertad Avanza",
+        "PROVINCIA": "Mendoza",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/correa_llano_facundo.jpg"
+    },
+    {
+        "DIPUTADO": "D'ALESSANDRO, CARLOS",
+        "BLOQUE": "La Libertad Avanza",
+        "PROVINCIA": "San Luis",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/dalessandro_carlos.jpg"
+    },
+    {
+        "DIPUTADO": "DAIVES, RICARDO",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Santiago del Estero",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/daives_ricardo.jpg"
+    },
+    {
+        "DIPUTADO": "DE LA SOTA, NATALIA",
+        "BLOQUE": "Encuentro Federal",
+        "PROVINCIA": "Córdoba",
+        "VOTO": "AUSENTE",
+        "FOTO": "/fotosDiputados/de_la_sota_natalia.jpg"
+    },
+    {
+        "DIPUTADO": "DE LOREDO, RODRIGO",
+        "BLOQUE": "Ucr - Union Civica Radical",
+        "PROVINCIA": "Córdoba",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/de_loredo_rodrigo.jpg"
+    },
+    {
+        "DIPUTADO": "DE SENSI, MARIA FLORENCIA",
+        "BLOQUE": "Pro",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/de_sensi_maria_florencia.jpg"
+    },
+    {
+        "DIPUTADO": "DEL CAÑO, NICOLAS",
+        "BLOQUE": "Frente De Izquierda Unidad",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/del_caño_nicolas.jpg"
+    },
+    {
+        "DIPUTADO": "DIEZ, ROMINA",
+        "BLOQUE": "La Libertad Avanza",
+        "PROVINCIA": "Santa Fe",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/diez_romina.jpg"
+    },
+    {
+        "DIPUTADO": "DOMINGO, AGUSTIN",
+        "BLOQUE": "Innovacion Federal",
+        "PROVINCIA": "Rio Negro",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/domingo_agustin.jpg"
+    },
+    {
+        "DIPUTADO": "EMMA, NICOLAS",
+        "BLOQUE": "La Libertad Avanza",
+        "PROVINCIA": "C.A.B.A.",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/emma_nicolas.jpg"
+    },
+    {
+        "DIPUTADO": "ESPERT, JOSE LUIS",
+        "BLOQUE": "La Libertad Avanza",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/espert_jose_luis.jpg"
+    },
+    {
+        "DIPUTADO": "ESTEVEZ, GABRIELA",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Córdoba",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/estevez_gabriela.jpg"
+    },
+    {
+        "DIPUTADO": "ESTRADA, EMILIANO",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Salta",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/estrada_emiliano.jpg"
+    },
+    {
+        "DIPUTADO": "FALCONE, EDUARDO",
+        "BLOQUE": "Mid - Movimiento De Integracion Y Desarrollo",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/falcone_eduardo.jpg"
+    },
+    {
+        "DIPUTADO": "FEIN, MONICA",
+        "BLOQUE": "Encuentro Federal",
+        "PROVINCIA": "Santa Fe",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/fein_monica.jpg"
+    },
+    {
+        "DIPUTADO": "FERNANDEZ MOLERO, DAIANA",
+        "BLOQUE": "Pro",
+        "PROVINCIA": "C.A.B.A.",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/fernandez_molero_daiana.jpg"
+    },
+    {
+        "DIPUTADO": "FERNANDEZ PATRI, RAMIRO",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Formosa",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/fernandez_patri_ramiro.jpg"
+    },
+    {
+        "DIPUTADO": "FERNANDEZ, AGUSTIN",
+        "BLOQUE": "Independencia",
+        "PROVINCIA": "Tucumán",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/fernandez_agustin.jpg"
+    },
+    {
+        "DIPUTADO": "FERNANDEZ, CARLOS ALBERTO",
+        "BLOQUE": "Innovacion Federal",
+        "PROVINCIA": "Misiones",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/fernandez_carlos_alberto.jpg"
+    },
+    {
+        "DIPUTADO": "FERNANDEZ, ELIA MARINA",
+        "BLOQUE": "Independencia",
+        "PROVINCIA": "Tucumán",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/fernandez_elia_marina.jpg"
+    },
+    {
+        "DIPUTADO": "FERRARO, MAXIMILIANO",
+        "BLOQUE": "Coalicion Civica",
+        "PROVINCIA": "C.A.B.A.",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/ferraro_maximiliano.jpg"
+    },
+    {
+        "DIPUTADO": "FERREYRA, ALIDA",
+        "BLOQUE": "La Libertad Avanza",
+        "PROVINCIA": "C.A.B.A.",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/ferreyra_alida.jpg"
+    },
+    {
+        "DIPUTADO": "FIGUEROA CASAS, GERMANA",
+        "BLOQUE": "Pro",
+        "PROVINCIA": "Santa Fe",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/figueroa_casas_germana.jpg"
+    },
+    {
+        "DIPUTADO": "FINOCCHIARO, ALEJANDRO",
+        "BLOQUE": "Pro",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/finocchiaro_alejandro.jpg"
+    },
+    {
+        "DIPUTADO": "FRADE, MONICA",
+        "BLOQUE": "Coalicion Civica",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/frade_monica.jpg"
+    },
+    {
+        "DIPUTADO": "FREITES, ANDREA",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Tierra del Fuego",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/freites_andrea.jpg"
+    },
+    {
+        "DIPUTADO": "GAILLARD, ANA CAROLINA",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Entre Ríos",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/gaillard_ana_carolina.jpg"
+    },
+    {
+        "DIPUTADO": "GARCIA ARESCA, IGNACIO",
+        "BLOQUE": "Encuentro Federal",
+        "PROVINCIA": "Córdoba",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/garcia_aresca_ignacio.jpg"
+    },
+    {
+        "DIPUTADO": "GARCIA, CARLOS",
+        "BLOQUE": "La Libertad Avanza",
+        "PROVINCIA": "Chaco",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/garcia_carlos.jpg"
+    },
+    {
+        "DIPUTADO": "GARRAMUÑO, RICARDO",
+        "BLOQUE": "Somos Fueguinos",
+        "PROVINCIA": "Tierra del Fuego",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/garramuño_ricardo.jpg"
+    },
+    {
+        "DIPUTADO": "GARRIDO, JOSE LUIS",
+        "BLOQUE": "Por Santa Cruz",
+        "PROVINCIA": "Santa Cruz",
+        "VOTO": "AUSENTE",
+        "FOTO": "/fotosDiputados/garrido_jose_luis.jpg"
+    },
+    {
+        "DIPUTADO": "GINOCCHIO, SILVANA MICAELA",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Catamarca",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/ginocchio_silvana_micaela.jpg"
+    },
+    {
+        "DIPUTADO": "GIORGI, MELINA",
+        "BLOQUE": "Democracia Para Siempre",
+        "PROVINCIA": "Santa Fe",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/giorgi_melina.jpg"
+    },
+    {
+        "DIPUTADO": "GIUDICI, SILVANA",
+        "BLOQUE": "Pro",
+        "PROVINCIA": "C.A.B.A.",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/giudici_silvana.jpg"
+    },
+    {
+        "DIPUTADO": "GIULIANO, DIEGO A.",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Santa Fe",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/giuliano_diego_a.jpg"
+    },
+    {
+        "DIPUTADO": "GLINSKI, JOSE",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Chubut",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/glinski_jose.jpg"
+    },
+    {
+        "DIPUTADO": "GOLLAN, DANIEL",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "AUSENTE",
+        "FOTO": "/fotosDiputados/gollan_daniel.jpg"
+    },
+    {
+        "DIPUTADO": "GOMEZ, JOSE",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Santiago del Estero",
+        "VOTO": "AUSENTE",
+        "FOTO": "/fotosDiputados/gomez_jose.jpg"
+    },
+    {
+        "DIPUTADO": "GONZALEZ, ALVARO",
+        "BLOQUE": "Pro",
+        "PROVINCIA": "C.A.B.A.",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/gonzalez_alvaro.jpg"
+    },
+    {
+        "DIPUTADO": "GONZALEZ, GERARDO GUSTAVO",
+        "BLOQUE": "La Libertad Avanza",
+        "PROVINCIA": "Formosa",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/gonzalez_gerardo_gustavo.jpg"
+    },
+    {
+        "DIPUTADO": "GONZALEZ, GUSTAVO CARLOS MIGUEL",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Santa Cruz",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/gonzalez_gustavo_carlos_miguel.jpg"
+    },
+    {
+        "DIPUTADO": "GUTIERREZ, CARLOS",
+        "BLOQUE": "Encuentro Federal",
+        "PROVINCIA": "Córdoba",
+        "VOTO": "AUSENTE",
+        "FOTO": "/fotosDiputados/gutierrez_carlos.jpg"
+    },
+    {
+        "DIPUTADO": "GUTIERREZ, RAMIRO",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/gutierrez_ramiro.jpg"
+    },
+    {
+        "DIPUTADO": "HAGMAN, ITAI",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "C.A.B.A.",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/hagman_itai.jpg"
+    },
+    {
+        "DIPUTADO": "HELLER, CARLOS",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "C.A.B.A.",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/heller_carlos.jpg"
+    },
+    {
+        "DIPUTADO": "HERRERA, BERNARDO JOSE",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Santiago del Estero",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/herrera_bernardo_jose.jpg"
+    },
+    {
+        "DIPUTADO": "HERRERA, RICARDO",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "La Rioja",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/herrera_ricardo.jpg"
+    },
+    {
+        "DIPUTADO": "HUESEN, GERARDO",
+        "BLOQUE": "La Libertad Avanza",
+        "PROVINCIA": "Tucumán",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/huesen_gerardo.jpg"
+    },
+    {
+        "DIPUTADO": "IANNI, ANA MARIA",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Santa Cruz",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/ianni_ana_maria.jpg"
+    },
+    {
+        "DIPUTADO": "IBAÑEZ, MARIA CECILIA",
+        "BLOQUE": "Mid - Movimiento De Integracion Y Desarrollo",
+        "PROVINCIA": "Córdoba",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/ibañez_maria_cecilia.jpg"
+    },
+    {
+        "DIPUTADO": "IGLESIAS, FERNANDO ADOLFO",
+        "BLOQUE": "Pro",
+        "PROVINCIA": "C.A.B.A.",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/iglesias_fernando_adolfo.jpg"
+    },
+    {
+        "DIPUTADO": "IPARRAGUIRRE, ROGELIO",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/iparraguirre_rogelio.jpg"
+    },
+    {
+        "DIPUTADO": "JULIANO, PABLO",
+        "BLOQUE": "Democracia Para Siempre",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/juliano_pablo.jpg"
+    },
+    {
+        "DIPUTADO": "KIRCHNER, MAXIMO CARLOS",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/kirchner_maximo_carlos.jpg"
+    },
+    {
+        "DIPUTADO": "KLIPAUKA LEWTAK, FLORENCIA",
+        "BLOQUE": "La Libertad Avanza",
+        "PROVINCIA": "Misiones",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/klipauka_lewtak_florencia.jpg"
+    },
+    {
+        "DIPUTADO": "LASPINA, LUCIANO ANDRES",
+        "BLOQUE": "Pro",
+        "PROVINCIA": "Santa Fe",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/laspina_luciano_andres.jpg"
+    },
+    {
+        "DIPUTADO": "LEDESMA, TOMAS",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Entre Ríos",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/ledesma_tomas.jpg"
+    },
+    {
+        "DIPUTADO": "LEIVA, ALDO",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Chaco",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/leiva_aldo.jpg"
+    },
+    {
+        "DIPUTADO": "LEMOINE, LILIA",
+        "BLOQUE": "La Libertad Avanza",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/lemoine_lilia.jpg"
+    },
+    {
+        "DIPUTADO": "LITZA, MONICA",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/litza_monica.jpg"
+    },
+    {
+        "DIPUTADO": "LLANCAFILO, OSVALDO",
+        "BLOQUE": "Movimiento Popular  Neuquino",
+        "PROVINCIA": "Neuquén",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/llancafilo_osvaldo.jpg"
+    },
+    {
+        "DIPUTADO": "LLANO, MERCEDES",
+        "BLOQUE": "La Libertad Avanza",
+        "PROVINCIA": "Mendoza",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/llano_mercedes.jpg"
+    },
+    {
+        "DIPUTADO": "LOMBARDI, HERNAN",
+        "BLOQUE": "Pro",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/lombardi_hernan.jpg"
+    },
+    {
+        "DIPUTADO": "LOPEZ MURPHY, RICARDO HIPOLITO",
+        "BLOQUE": "Encuentro Federal",
+        "PROVINCIA": "C.A.B.A.",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/lopez_murphy_ricardo_hipolito.jpg"
+    },
+    {
+        "DIPUTADO": "LOPEZ RODRIGUEZ, DANTE",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Catamarca",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/lopez_rodriguez_dante.jpg"
+    },
+    {
+        "DIPUTADO": "LOPEZ, JUAN MANUEL",
+        "BLOQUE": "Coalicion Civica",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/lopez_juan_manuel.jpg"
+    },
+    {
+        "DIPUTADO": "LOSPENNATO, SILVIA",
+        "BLOQUE": "Pro",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/lospennato_silvia.jpg"
+    },
+    {
+        "DIPUTADO": "MACHA, MONICA",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/macha_monica.jpg"
+    },
+    {
+        "DIPUTADO": "MACYSZYN, LORENA",
+        "BLOQUE": "La Libertad Avanza",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/macyszyn_lorena.jpg"
+    },
+    {
+        "DIPUTADO": "MANES, FACUNDO",
+        "BLOQUE": "Democracia Para Siempre",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/manes_facundo.jpg"
+    },
+    {
+        "DIPUTADO": "MANRIQUE, MARIO",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/manrique_mario.jpg"
+    },
+    {
+        "DIPUTADO": "MAQUIEYRA, MARTIN",
+        "BLOQUE": "Pro",
+        "PROVINCIA": "La Pampa",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/maquieyra_martin.jpg"
+    },
+    {
+        "DIPUTADO": "MARIN, VARINIA LIS",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "La Pampa",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/marin_varinia_lis.jpg"
+    },
+    {
+        "DIPUTADO": "MARINO, JUAN",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/marino_juan.jpg"
+    },
+    {
+        "DIPUTADO": "MARQUEZ, NADIA",
+        "BLOQUE": "La Libertad Avanza",
+        "PROVINCIA": "Neuquén",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/marquez_nadia.jpg"
+    },
+    {
+        "DIPUTADO": "MARTINEZ, ALVARO",
+        "BLOQUE": "La Libertad Avanza",
+        "PROVINCIA": "Mendoza",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/martinez_alvaro.jpg"
+    },
+    {
+        "DIPUTADO": "MARTINEZ, GERMAN PEDRO",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Santa Fe",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/martinez_german_pedro.jpg"
+    },
+    {
+        "DIPUTADO": "MARZIOTTA, GISELA",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "C.A.B.A.",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/marziotta_gisela.jpg"
+    },
+    {
+        "DIPUTADO": "MASSOT, NICOLAS",
+        "BLOQUE": "Encuentro Federal",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "ABSTENCION",
+        "FOTO": "/fotosDiputados/massot_nicolas.jpg"
+    },
+    {
+        "DIPUTADO": "MASTALER, MAGALI",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Santa Fe",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/mastaler_magali.jpg"
+    },
+    {
+        "DIPUTADO": "MAYORAZ, NICOLAS",
+        "BLOQUE": "La Libertad Avanza",
+        "PROVINCIA": "Santa Fe",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/mayoraz_nicolas.jpg"
+    },
+    {
+        "DIPUTADO": "MEDINA, GLADYS",
+        "BLOQUE": "Independencia",
+        "PROVINCIA": "Tucumán",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/medina_gladys.jpg"
+    },
+    {
+        "DIPUTADO": "MENEM, MARTIN",
+        "BLOQUE": "La Libertad Avanza",
+        "PROVINCIA": "La Rioja",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/menem_martin.jpg"
+    },
+    {
+        "DIPUTADO": "MILMAN, GERARDO",
+        "BLOQUE": "Pro",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/milman_gerardo.jpg"
+    },
+    {
+        "DIPUTADO": "MIRABELLA, ROBERTO",
+        "BLOQUE": "Defendamos Santa Fe",
+        "PROVINCIA": "Santa Fe",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/mirabella_roberto.jpg"
+    },
+    {
+        "DIPUTADO": "MOLLE, MATIAS",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/molle_matias.jpg"
+    },
+    {
+        "DIPUTADO": "MONTENEGRO, GUILLERMO",
+        "BLOQUE": "La Libertad Avanza",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/montenegro_guillermo.jpg"
+    },
+    {
+        "DIPUTADO": "MONTI, FRANCISCO",
+        "BLOQUE": "Ucr - Union Civica Radical",
+        "PROVINCIA": "Catamarca",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/monti_francisco.jpg"
+    },
+    {
+        "DIPUTADO": "MONTOTO, MARIA LUISA",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Santiago del Estero",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/montoto_maria_luisa.jpg"
+    },
+    {
+        "DIPUTADO": "MONZO, EMILIO",
+        "BLOQUE": "Encuentro Federal",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/monzo_emilio.jpg"
+    },
+    {
+        "DIPUTADO": "MONZON, ROXANA",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/monzon_roxana.jpg"
+    },
+    {
+        "DIPUTADO": "MORAN, MICAELA",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/moran_micaela.jpg"
+    },
+    {
+        "DIPUTADO": "MORCHIO, FRANCISCO",
+        "BLOQUE": "Encuentro Federal",
+        "PROVINCIA": "Entre Ríos",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/morchio_francisco.jpg"
+    },
+    {
+        "DIPUTADO": "MOREAU, CECILIA",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/moreau_cecilia.jpg"
+    },
+    {
+        "DIPUTADO": "MOREAU, LEOPOLDO",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/moreau_leopoldo.jpg"
+    },
+    {
+        "DIPUTADO": "MORENO OVALLE, JULIO",
+        "BLOQUE": "La Libertad Avanza",
+        "PROVINCIA": "Salta",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/moreno_ovalle_julio.jpg"
+    },
+    {
+        "DIPUTADO": "MORENO, MARIA DE LOS ANGELES",
+        "BLOQUE": "Produccion Y Trabajo",
+        "PROVINCIA": "San Juan",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/moreno_maria_de_los_angeles.jpg"
+    },
+    {
+        "DIPUTADO": "MOYANO, NILDA",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Santiago del Estero",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/moyano_nilda.jpg"
+    },
+    {
+        "DIPUTADO": "NEDER, ESTELA MARY",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Santiago del Estero",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/neder_estela_mary.jpg"
+    },
+    {
+        "DIPUTADO": "NIERI, LISANDRO",
+        "BLOQUE": "Ucr - Union Civica Radical",
+        "PROVINCIA": "Mendoza",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/nieri_lisandro.jpg"
+    },
+    {
+        "DIPUTADO": "NOBLEGA, SEBASTIAN",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Catamarca",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/noblega_sebastian.jpg"
+    },
+    {
+        "DIPUTADO": "NUÑEZ, JOSE",
+        "BLOQUE": "Pro",
+        "PROVINCIA": "Santa Fe",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/nuñez_jose.jpg"
+    },
+    {
+        "DIPUTADO": "OLIVETO LAGO, PAULA",
+        "BLOQUE": "Coalicion Civica",
+        "PROVINCIA": "C.A.B.A.",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/oliveto_lago_paula.jpg"
+    },
+    {
+        "DIPUTADO": "OMODEO, PAULA",
+        "BLOQUE": "Creo",
+        "PROVINCIA": "Tucumán",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/omodeo_paula.jpg"
+    },
+    {
+        "DIPUTADO": "OROZCO, EMILIA",
+        "BLOQUE": "La Libertad Avanza",
+        "PROVINCIA": "Salta",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/orozco_emilia.jpg"
+    },
+    {
+        "DIPUTADO": "OSUNA, BLANCA INES",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Entre Ríos",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/osuna_blanca_ines.jpg"
+    },
+    {
+        "DIPUTADO": "OUTES, PABLO",
+        "BLOQUE": "Innovacion Federal",
+        "PROVINCIA": "Salta",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/outes_pablo.jpg"
+    },
+    {
+        "DIPUTADO": "PAGANO, MARCELA MARINA",
+        "BLOQUE": "La Libertad Avanza",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/pagano_marcela_marina.jpg"
+    },
+    {
+        "DIPUTADO": "PALAZZO, SERGIO OMAR",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/palazzo_sergio_omar.jpg"
+    },
+    {
+        "DIPUTADO": "PAPONET, LILIANA",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Mendoza",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/paponet_liliana.jpg"
+    },
+    {
+        "DIPUTADO": "PAROLA, MARIA GRACIELA",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Formosa",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/parola_maria_graciela.jpg"
+    },
+    {
+        "DIPUTADO": "PASSO, MARCELA FABIANA",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/passo_marcela_fabiana.jpg"
+    },
+    {
+        "DIPUTADO": "PAULI, SANTIAGO",
+        "BLOQUE": "La Libertad Avanza",
+        "PROVINCIA": "Tierra del Fuego",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/pauli_santiago.jpg"
+    },
+    {
+        "DIPUTADO": "PAULON, ESTEBAN",
+        "BLOQUE": "Encuentro Federal",
+        "PROVINCIA": "Santa Fe",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/paulon_esteban.jpg"
+    },
+    {
+        "DIPUTADO": "PEDRALI, GABRIELA",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "La Rioja",
+        "VOTO": "AUSENTE",
+        "FOTO": "/fotosDiputados/pedrali_gabriela.jpg"
+    },
+    {
+        "DIPUTADO": "PEDRINI, JUAN MANUEL",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Chaco",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/pedrini_juan_manuel.jpg"
+    },
+    {
+        "DIPUTADO": "PELUC, JOSE",
+        "BLOQUE": "La Libertad Avanza",
+        "PROVINCIA": "San Juan",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/peluc_jose.jpg"
+    },
+    {
+        "DIPUTADO": "PENACCA, PAULA ANDREA",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "C.A.B.A.",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/penacca_paula_andrea.jpg"
+    },
+    {
+        "DIPUTADO": "PEREYRA, JULIO",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/pereyra_julio.jpg"
+    },
+    {
+        "DIPUTADO": "PICAT, LUIS ALBINO",
+        "BLOQUE": "Ucr - Union Civica Radical",
+        "PROVINCIA": "Córdoba",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/picat_luis_albino.jpg"
+    },
+    {
+        "DIPUTADO": "PICHETTO, MIGUEL ANGEL",
+        "BLOQUE": "Encuentro Federal",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "ABSTENCION",
+        "FOTO": "/fotosDiputados/pichetto_miguel_angel.jpg"
+    },
+    {
+        "DIPUTADO": "PICON MARTINEZ, NANCY VIVIANA",
+        "BLOQUE": "Produccion Y Trabajo",
+        "PROVINCIA": "San Juan",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/picon_martinez_nancy_viviana.jpg"
+    },
+    {
+        "DIPUTADO": "PIPARO, CAROLINA",
+        "BLOQUE": "La Libertad Avanza",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/piparo_carolina.jpg"
+    },
+    {
+        "DIPUTADO": "POKOIK, LORENA",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "C.A.B.A.",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/pokoik_lorena.jpg"
+    },
+    {
+        "DIPUTADO": "POLINI, JUAN CARLOS",
+        "BLOQUE": "Democracia Para Siempre",
+        "PROVINCIA": "Chaco",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/polini_juan_carlos.jpg"
+    },
+    {
+        "DIPUTADO": "PONCE, MARIA CELESTE",
+        "BLOQUE": "La Libertad Avanza",
+        "PROVINCIA": "Córdoba",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/ponce_maria_celeste.jpg"
+    },
+    {
+        "DIPUTADO": "POTENZA, LUCIANA",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/potenza_luciana.jpg"
+    },
+    {
+        "DIPUTADO": "PROPATO, AGUSTINA LUCRECIA",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/propato_agustina_lucrecia.jpg"
+    },
+    {
+        "DIPUTADO": "QUETGLAS, FABIO JOSE",
+        "BLOQUE": "Ucr - Union Civica Radical",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/quetglas_fabio_jose.jpg"
+    },
+    {
+        "DIPUTADO": "QUINTAR, MANUEL",
+        "BLOQUE": "La Libertad Avanza",
+        "PROVINCIA": "Jujuy",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/quintar_manuel.jpg"
+    },
+    {
+        "DIPUTADO": "QUIROZ, MARILU",
+        "BLOQUE": "Pro",
+        "PROVINCIA": "Chaco",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/quiroz_marilu.jpg"
+    },
+    {
+        "DIPUTADO": "RANDAZZO, FLORENCIO",
+        "BLOQUE": "Encuentro Federal",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/randazzo_florencio.jpg"
+    },
+    {
+        "DIPUTADO": "RAUSCHENBERGER, ARIEL",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "La Pampa",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/rauschenberger_ariel.jpg"
+    },
+    {
+        "DIPUTADO": "RAZZINI, VERONICA",
+        "BLOQUE": "Pro",
+        "PROVINCIA": "Santa Fe",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/razzini_veronica.jpg"
+    },
+    {
+        "DIPUTADO": "REYES, ROXANA",
+        "BLOQUE": "Ucr - Union Civica Radical",
+        "PROVINCIA": "Santa Cruz",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/reyes_roxana.jpg"
+    },
+    {
+        "DIPUTADO": "RITONDO, CRISTIAN A.",
+        "BLOQUE": "Pro",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/ritondo_cristian_a.jpg"
+    },
+    {
+        "DIPUTADO": "RIZZOTTI, JORGE",
+        "BLOQUE": "Democracia Para Siempre",
+        "PROVINCIA": "Jujuy",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/rizzotti_jorge.jpg"
+    },
+    {
+        "DIPUTADO": "RODRIGUEZ MACHADO, LAURA",
+        "BLOQUE": "Pro",
+        "PROVINCIA": "Córdoba",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/rodriguez_machado_laura.jpg"
+    },
+    {
+        "DIPUTADO": "ROMERO, ANA CLARA",
+        "BLOQUE": "Pro",
+        "PROVINCIA": "Chubut",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/romero_ana_clara.jpg"
+    },
+    {
+        "DIPUTADO": "ROMERO, JORGE ANTONIO",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Corrientes",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/romero_jorge_antonio.jpg"
+    },
+    {
+        "DIPUTADO": "RUIZ, YAMILA",
+        "BLOQUE": "Innovacion Federal",
+        "PROVINCIA": "Misiones",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/ruiz_yamila.jpg"
+    },
+    {
+        "DIPUTADO": "SANCHEZ, ROBERTO ANTONIO",
+        "BLOQUE": "Ucr - Union Civica Radical",
+        "PROVINCIA": "Tucumán",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/sanchez_roberto_antonio.jpg"
+    },
+    {
+        "DIPUTADO": "SAND, NANCY",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Corrientes",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/sand_nancy.jpg"
+    },
+    {
+        "DIPUTADO": "SANTILLAN JUAREZ BRAHIM, JULIANA",
+        "BLOQUE": "La Libertad Avanza",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/santillan_juarez_brahim_juliana.jpg"
+    },
+    {
+        "DIPUTADO": "SANTILLI, DIEGO",
+        "BLOQUE": "Pro",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/santilli_diego.jpg"
+    },
+    {
+        "DIPUTADO": "SANTORO, LEANDRO",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "C.A.B.A.",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/santoro_leandro.jpg"
+    },
+    {
+        "DIPUTADO": "SANTURIO, SANTIAGO",
+        "BLOQUE": "La Libertad Avanza",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/santurio_santiago.jpg"
+    },
+    {
+        "DIPUTADO": "SARAPURA, NATALIA SILVINA",
+        "BLOQUE": "Ucr - Union Civica Radical",
+        "PROVINCIA": "Jujuy",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/sarapura_natalia_silvina.jpg"
+    },
+    {
+        "DIPUTADO": "SCHLOTTHAUER, MONICA LETICIA",
+        "BLOQUE": "Frente De Izquierda Unidad",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/schlotthauer_monica_leticia.jpg"
+    },
+    {
+        "DIPUTADO": "SELVA, SABRINA",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/selva_sabrina.jpg"
+    },
+    {
+        "DIPUTADO": "SILEY, VANESA RAQUEL",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/siley_vanesa_raquel.jpg"
+    },
+    {
+        "DIPUTADO": "SNOPEK, GUILLERMO",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Jujuy",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/snopek_guillermo.jpg"
+    },
+    {
+        "DIPUTADO": "SORIA, MARTIN",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Rio Negro",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/soria_martin.jpg"
+    },
+    {
+        "DIPUTADO": "SOTOLANO, MARIA",
+        "BLOQUE": "Pro",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/sotolano_maria.jpg"
+    },
+    {
+        "DIPUTADO": "STOLBIZER, MARGARITA",
+        "BLOQUE": "Encuentro Federal",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/stolbizer_margarita.jpg"
+    },
+    {
+        "DIPUTADO": "STRADA, JULIA",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/strada_julia.jpg"
+    },
+    {
+        "DIPUTADO": "TAILHADE, RODOLFO",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/tailhade_rodolfo.jpg"
+    },
+    {
+        "DIPUTADO": "TAVELA, DANYA",
+        "BLOQUE": "Democracia Para Siempre",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/tavela_danya.jpg"
+    },
+    {
+        "DIPUTADO": "TETAZ, MARTIN ALBERTO",
+        "BLOQUE": "Ucr - Union Civica Radical",
+        "PROVINCIA": "C.A.B.A.",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/tetaz_martin_alberto.jpg"
+    },
+    {
+        "DIPUTADO": "TODERO, PABLO",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Neuquén",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/todero_pablo.jpg"
+    },
+    {
+        "DIPUTADO": "TOLOSA PAZ, VICTORIA",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/tolosa_paz_victoria.jpg"
+    },
+    {
+        "DIPUTADO": "TONIOLLI, EDUARDO",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Santa Fe",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/toniolli_eduardo.jpg"
+    },
+    {
+        "DIPUTADO": "TORRES, ALEJANDRA",
+        "BLOQUE": "Encuentro Federal",
+        "PROVINCIA": "Córdoba",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/torres_alejandra.jpg"
+    },
+    {
+        "DIPUTADO": "TORTORIELLO, ANIBAL",
+        "BLOQUE": "Pro",
+        "PROVINCIA": "Rio Negro",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/tortoriello_anibal.jpg"
+    },
+    {
+        "DIPUTADO": "TOURNIER, JOSE FEDERICO",
+        "BLOQUE": "Ucr - Union Civica Radical",
+        "PROVINCIA": "Corrientes",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/tournier_jose_federico.jpg"
+    },
+    {
+        "DIPUTADO": "TREFFINGER, CESAR",
+        "BLOQUE": "La Libertad Avanza",
+        "PROVINCIA": "Chubut",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/treffinger_cesar.jpg"
+    },
+    {
+        "DIPUTADO": "VALDES, EDUARDO FELIX",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "C.A.B.A.",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/valdes_eduardo_felix.jpg"
+    },
+    {
+        "DIPUTADO": "VANCSIK, DANIEL",
+        "BLOQUE": "Innovacion Federal",
+        "PROVINCIA": "Misiones",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/vancsik_daniel.jpg"
+    },
+    {
+        "DIPUTADO": "VARGAS MATYI, BRENDA",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/vargas_matyi_brenda.jpg"
+    },
+    {
+        "DIPUTADO": "VASQUEZ, PATRICIA",
+        "BLOQUE": "Pro",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/vasquez_patricia.jpg"
+    },
+    {
+        "DIPUTADO": "VEGA, YOLANDA",
+        "BLOQUE": "Innovacion Federal",
+        "PROVINCIA": "Salta",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/vega_yolanda.jpg"
+    },
+    {
+        "DIPUTADO": "VERASAY, PAMELA FERNANDA",
+        "BLOQUE": "Ucr - Union Civica Radical",
+        "PROVINCIA": "Mendoza",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/verasay_pamela_fernanda.jpg"
+    },
+    {
+        "DIPUTADO": "VIDAL, MARIA EUGENIA",
+        "BLOQUE": "Pro",
+        "PROVINCIA": "C.A.B.A.",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/vidal_maria_eugenia.jpg"
+    },
+    {
+        "DIPUTADO": "VILCA, ALEJANDRO",
+        "BLOQUE": "Frente De Izquierda Unidad",
+        "PROVINCIA": "Jujuy",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/vilca_alejandro.jpg"
+    },
+    {
+        "DIPUTADO": "VILLAVERDE, LORENA",
+        "BLOQUE": "La Libertad Avanza",
+        "PROVINCIA": "Rio Negro",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/villaverde_lorena.jpg"
+    },
+    {
+        "DIPUTADO": "VOLNOVICH, LUANA",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/volnovich_luana.jpg"
+    },
+    {
+        "DIPUTADO": "YASKY, HUGO",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/yasky_hugo.jpg"
+    },
+    {
+        "DIPUTADO": "YEDLIN, PABLO RAUL",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Tucumán",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/yedlin_pablo_raul.jpg"
+    },
+    {
+        "DIPUTADO": "YEZA, MARTIN",
+        "BLOQUE": "Pro",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/yeza_martin.jpg"
+    },
+    {
+        "DIPUTADO": "YUTROVIC, CAROLINA",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Tierra del Fuego",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/yutrovic_carolina.jpg"
+    },
+    {
+        "DIPUTADO": "ZABALA CHACUR, NATALIA",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "San Luis",
+        "VOTO": "AUSENTE",
+        "FOTO": "/fotosDiputados/zabala_chacur_natalia.jpg"
+    },
+    {
+        "DIPUTADO": "ZAGO, OSCAR",
+        "BLOQUE": "Mid - Movimiento De Integracion Y Desarrollo",
+        "PROVINCIA": "C.A.B.A.",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/zago_oscar.jpg"
+    },
+    {
+        "DIPUTADO": "ZAPATA, CARLOS RAUL",
+        "BLOQUE": "La Libertad Avanza",
+        "PROVINCIA": "Salta",
+        "VOTO": "AFIRMATIVO",
+        "FOTO": "/fotosDiputados/zapata_carlos_raul.jpg"
+    },
+    {
+        "DIPUTADO": "ZARACHO, NATALIA",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Buenos Aires",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/zaracho_natalia.jpg"
+    },
+    {
+        "DIPUTADO": "ZULLI, CHRISTIAN ALEJANDRO",
+        "BLOQUE": "Union Por La Patria",
+        "PROVINCIA": "Corrientes",
+        "VOTO": "NEGATIVO",
+        "FOTO": "/fotosDiputados/zulli_christian_alejandro.jpg"
+    }
+]

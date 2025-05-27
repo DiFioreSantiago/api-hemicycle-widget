@@ -1,0 +1,104 @@
+{
+    "diputados": {
+        "votos": {
+            "NEGATIVO": {
+                "name": "NEGATIVO",
+                "seats": 98,
+                "colour": "#B71C1C"
+            },
+            "AFIRMATIVO": {
+                "name": "AFIRMATIVO",
+                "seats": 144,
+                "colour": "#008000"
+            },
+            "AUSENTE": {
+                "name": "AUSENTE",
+                "seats": 13,
+                "colour": "#607D8B"
+            },
+            "ABSTENCION": {
+                "name": "ABSTENCION",
+                "seats": 2,
+                "colour": "#FFD600"
+            }
+        },
+        "partidos": {
+            "Otros": {
+                "name": "Otros",
+                "seats": 78,
+                "colour": "#9E9E9E"
+            },
+            "Union Por La Patria": {
+                "name": "Union Por La Patria",
+                "seats": 98,
+                "colour": "#118CEF"
+            },
+            "Pro": {
+                "name": "Pro",
+                "seats": 37,
+                "colour": "#F9A825"
+            },
+            "La Libertad Avanza": {
+                "name": "La Libertad Avanza",
+                "seats": 39,
+                "colour": "#8E24AA"
+            },
+            "Frente De Izquierda Unidad": {
+                "name": "Frente De Izquierda Unidad",
+                "seats": 5,
+                "colour": "#E53935"
+            }
+        }
+    },
+    "senadores": {
+        "votos": {
+            "AFIRMATIVO": {
+                "name": "AFIRMATIVO",
+                "seats": 36,
+                "colour": "#008000"
+            },
+            "AUSENTE": {
+                "name": "AUSENTE",
+                "seats": 1,
+                "colour": "#607D8B"
+            },
+            "NEGATIVO": {
+                "name": "NEGATIVO",
+                "seats": 35,
+                "colour": "#B71C1C"
+            }
+        },
+        "partidos": {
+            "Unión Cívica Radical": {
+                "name": "Unión Cívica Radical",
+                "seats": 13,
+                "colour": "#FC4B08"
+            },
+            "La Libertad Avanza": {
+                "name": "La Libertad Avanza",
+                "seats": 6,
+                "colour": "#8E24AA"
+            },
+            "Frente Pro": {
+                "name": "Frente Pro",
+                "seats": 7,
+                "colour": "#F9A825"
+            },
+            "Otros": {
+                "name": "Otros",
+                "seats": 16,
+                "colour": "#B0BEC5"
+            },
+            "Frente Nacional Y Popular": {
+                "name": "Frente Nacional Y Popular",
+                "seats": 15,
+                "colour": "#1976D2"
+            },
+            "Unidad Ciudadana": {
+                "name": "Unidad Ciudadana",
+                "seats": 15,
+                "colour": "#1976D2"
+            }
+        }
+    }
+}
